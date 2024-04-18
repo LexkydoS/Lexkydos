@@ -1,24 +1,36 @@
-```zsh
-> Lexkydo
-```
-![Status](https://api.statusbadges.me/badge/status/169711695932030976?simple=true&style=for-the-badge) &nbsp; ![playing](https://api.statusbadges.me/badge/playing/169711695932030976?style=for-the-badge) &nbsp; ![intellij](https://api.statusbadges.me/badge/intellij/169711695932030976?style=for-the-badge) &nbsp; [![spotify](https://api.statusbadges.me/badge/spotify/211888560662511617?style=for-the-badge)](https://api.statusbadges.me/openspotify/169711695932030976)
+<div align="center">
+ 
+# Hello, I'm [KYDO](https://github.com/Lexkydo) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
 
-<img align="left" src="https://cdn.discordapp.com/attachments/1226795185107632250/1230110760592478288/IMG_20231227_162538.png?ex=663220eb&is=661fabeb&hm=b7e49d38ed46f49734e002aeb6322e3f3a957fc8c546c780ddb1b9ecdc350be4&" alt="Chewbacca" width="275" /> 
+[![GitHub](https://img.shields.io/github/followers/Lexkydo?label=follow&style=social)](https://github.com/Lexkydo)
 
-```csharp
-github.com/Lexkydo
--------------------------
-OS: Windows 11 Pro x86_64
-Kernel: 10.0.22621
-Shell: bash 5.0.17
-Uptime: 22 years
-Pronouns: He/Him
-Location: right here
-Frameworks: None
-Languages: JavaScript, TypeScript
-Learning: Node.js
-Hobbies: Eating
-Commits: 255
-Discord: chanjecky
-```
-![Commit Snake Game](https://raw.githubusercontent.com/thehairy/thehairy/output/github-contribution-grid-snake-dark.svg)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Lexkydo&label=Profile%20views&color=0d1117&style=flat-square" alt="Lexkydo" /> </p>
+
+<a href="https://discord.com/users/169711695932030976">
+        <img src="https://lanyard-profile-readme.vercel.app/api/169711695932030976?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..."/>
+    </a>
+</p>
+&nbsp;
+ 
+## 💡 A Quote:
+
+[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+## 💻 My Tech Stack:
+
+[![Node.js, JavaScript, SVELTE, TypeScript, tailwind, PHP, HTML, CSS, MongoDB, GIT](https://skillicons.dev/icons?i=nodejs,js,svelte,ts,tailwind,php,html,css,mongodb,git)](https://skillicons.dev)
+
+## 🏆 My Stats:
+
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Lexkydo&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lexkydo&layout=compact&theme=dark" />&nbsp;&nbsp;
+</p>
+
+## Others:
+
+<p>  
+<a target="_blank" href="https://twitter.com/Lexkydoo" ><img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;
+<a target="_blank" href="https://discord.gg/CDD223E3W3"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;
+</p>
+</div>
