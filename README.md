@@ -40,7 +40,7 @@
       <a href="https://www.youtube.com/@Lexkydo?app=desktop&sub_confirmation=1" target="_blank">
         <img src="https://img.shields.io/youtube/channel/subscribers/UCcUxh1vagyQtRfyliN3SaHw?logo=youtube&logoColor=red&style=for-the-badge">
       </a>
-      <a href="http://kydoo.site" target="_blank">
+      <a href="http://kydoo.lol" target="_blank">
         <img src="https://img.shields.io/website.svg?down_color=red&down_message=down&up_color=green&up_message=up&url=http://sobhan.epizy.com&style=for-the-badge">
       </a>
      </div>
