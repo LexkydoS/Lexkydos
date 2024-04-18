@@ -27,13 +27,13 @@
   <div align="center">
     <div>
       <a href="https://github.com/Lexkydo?tab=followers" target="_blank">
-         <img src="https://img.shields.io/github/followers/Sobhan-SRZA?logo=github&style=for-the-badge">
+         <img src="https://img.shields.io/github/followers/Lexkydo?logo=github&style=for-the-badge">
       </a>
       <a href="https://github.com/Lexkydo/" target="_blank">
-         <img src="https://img.shields.io/github/stars/Sobhan-SRZA?logo=github&style=for-the-badge">
+         <img src="https://img.shields.io/github/stars/Lexkydo?logo=github&style=for-the-badge">
       </a>
       <a href="https://github.com/Lexkydo/" target="_blank">
-         <img src="https://komarev.com/ghpvc/?username=Sobhan-SRZA&logo=github&style=for-the-badge">
+         <img src="https://komarev.com/ghpvc/?username=Lexkydo&logo=github&style=for-the-badge">
       </a>
     </div>
     <div>
@@ -98,7 +98,7 @@
     <img alt="Instagram" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
   </a>
-  <a href="https://www.youtube.com/@Lexkydo?app=desktop&sub_confirmation=1" target="_blank">
+  <a href="https://www.youtube.com/@chanjecky?app=desktop&sub_confirmation=1" target="_blank">
     <img alt="YouTube" src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
  <a href="https://twitter.com/Lexkydoo" target="_blank">
