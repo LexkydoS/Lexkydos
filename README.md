@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Lexkydo/" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=Lexkydo&label=Profile%20views&style=flat-square" alt="Azhar Rizky"/>
+    <img src="https://komarev.com/ghpvc/?username=Lexkydo&label=Profile%20views&style=flat-square" alt="Lexkydo"/>
     <img src="https://img.shields.io/badge/isActive-true-blue?style=flat-square" alt="Lexkydo"/>
     <!-- <img src="https://badges.pufler.dev/years/Lexkydo?style=flat-square" alt="Years Badge"/> -->
     <!-- <img src="https://badges.pufler.dev/repos/Lexkydo?style=flat-square" alt="Repos Badge"/> -->
@@ -91,9 +91,6 @@
 # **Contact me in**
 
 <div align="center">
-  <a href="http://kydoo.site" target="_blank">
-    <img align="left" src ="Source/social-media.png" width = 50% >
-  </a>
   <a href="https://www.instagram.com/jecvky/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
@@ -106,16 +103,6 @@
   </a>
   <a href="https://github.com/Lexkydo" target="_blank">
     <img alt="Github" src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=000000&logoColor=white&labelColor=&style=flat" height="30" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://discord.gg/CDD223E3W3" target="_blank"> 
-    <img src="https://discord.com/api/guilds/169713623705452545/widget.png?style=banner2" alt="cafeint.png">
-  </a>
-</p>
-<p align="right">
-  <a href="https://discord.gg/CDD223E3W3" target="_blank"> 
-    <img src="https://discord.com/api/guilds/169713623705452545/widget.png?style=banner2" alt="cafeint.png">
   </a>
 </p>
 <p align="center">
