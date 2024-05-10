@@ -1,5 +1,6 @@
 <div align='center'>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=40&center=true&width=600&height=69&lines=👋+Hi+there!+😎;✋+Welcome+To+My+Profile+😇;👨‍💻+I+love+Programming+💻;🎮+Gaming+💻;🌱+Nature+🌸;🌠+Astronomy+🌌;🧗‍♂️+Hiking+🗻;🧭+Exploring+🗺️;⌛+History+📜;🗾+Anime+🏯;📰+Research+🏆;🎼+And+create+some+Music+🎵" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=40&center=true&width=600&height=69&lines=👋+Hi+there!+😎;✋+Welcome+To+My+Profile+😇;👨‍💻+I+love+Programming+💻;🎮+Gaming+💻;🧭+Exploring+🗺️;⌛+History+📜;📰+Research+🏆;🎼+And+create+some+Music+🎵" alt="Typing SVG">
+    <img width="100%" src="https://cdn.discordapp.com/attachments/1227079835495698454/1233257575206621264/quality_restoration_20240426102437999.png?ex=662c701e&is=662b1e9e&hm=9ebe3a2074ffc31bf065039f9ded38e75d9f4b009df395f30fd87d8187402454&">
 
  
 # Hello, I'm [KYDO](https://github.com/Lexkydo) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
@@ -16,10 +17,6 @@
     <img src="https://img.shields.io/github/stars/Lexkydo?affiliations=OWNER%2CCOLLABORATOR&label=User+stars&style=social" alt="GitHub User's stars"/>
   </a>
 </p>
- 
-## 💡 A Quote:
-
-[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <h1 align="center">Coding Activity</h1>
 
@@ -91,6 +88,9 @@
 # **Contact me in**
 
 <div align="center">
+  <a href="http://kydoo.site" target="_blank">
+    <img align="left" src ="Source/social-media.png" width = 50% >
+  </a>
   <a href="https://www.instagram.com/jecvky/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
@@ -103,6 +103,16 @@
   </a>
   <a href="https://github.com/Lexkydo" target="_blank">
     <img alt="Github" src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=000000&logoColor=white&labelColor=&style=flat" height="30" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://discord.gg/CDD223E3W3" target="_blank"> 
+    <img src="https://discord.com/api/guilds/169713623705452545/widget.png?style=banner2" alt="cafeint.png">
+  </a>
+</p>
+<p align="right">
+  <a href="https://discord.gg/CDD223E3W3" target="_blank"> 
+    <img src="https://discord.com/api/guilds/169713623705452545/widget.png?style=banner2" alt="cafeint.png">
   </a>
 </p>
 <p align="center">
